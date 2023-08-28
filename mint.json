@@ -34,13 +34,13 @@
   ],
   "navigation": [
     {
-      "group": "",
-      "pages": [""]
+      "group": "Introduction",
+      "pages": ["getting-started"]
     }
   ],
   "footerSocials":
     {
-        "twitter": "",
-        "linkedin": ""
+        "twitter": "https://twitter.com/sourcemediumhq",
+        "linkedin": "https://www.linkedin.com/company/sourcemedium/"
     }
 }
