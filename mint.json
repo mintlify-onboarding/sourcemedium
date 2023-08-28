@@ -1,0 +1,46 @@
+{
+  "name": "Source Medium",
+  "logo": {
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#A084FC",
+    "light": "#BAA6FC",
+    "dark": "#A084FC"
+  },
+  "topbarCtaButton": {
+    "name": "Request a Demo",
+    "url": "https://www.sourcemedium.com/book-demo-web"
+  },
+  "topbarLinks": [
+    {
+      "name": "Supported Integrations",
+      "url": "https://help.sourcemedium.com/integration-docs"
+    }
+  ],
+  "anchors": [
+    {
+      "name": "Blog",
+      "icon": "newspaper",
+      "url": "https://www.sourcemedium.com/blog"
+    },
+    {
+        "name": "Help Center",
+        "icon": "newspaper",
+        "url": "https://www.sourcemedium.com/blog"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "",
+      "pages": [""]
+    }
+  ],
+  "footerSocials":
+    {
+        "twitter": "",
+        "linkedin": ""
+    }
+}
