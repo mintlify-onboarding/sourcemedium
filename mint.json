@@ -28,14 +28,24 @@
     },
     {
         "name": "Help Center",
-        "icon": "newspaper",
+        "icon": "question",
         "url": "https://www.sourcemedium.com/blog"
     }
   ],
+  "tabs": [
+    {
+        "name": "FAQ",
+        "url": "faq"
+    }
+],
   "navigation": [
     {
       "group": "Introduction",
-      "pages": ["getting-started"]
+      "pages": ["start"]
+    },
+    {
+      "group": "Getting Started",
+      "pages": ["getting-started/why-source-medium"]
     }
   ],
   "footerSocials":
