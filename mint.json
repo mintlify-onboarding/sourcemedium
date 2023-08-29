@@ -45,7 +45,7 @@
     },
     {
       "group": "Getting Started",
-      "pages": ["getting-started/why-source-medium","api-reference/post-functions"]
+      "pages": ["getting-started/why-source-medium"]
     }
   ],
   "footerSocials":
